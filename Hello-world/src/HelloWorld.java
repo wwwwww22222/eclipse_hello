@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("galaxy5 ends Miku");
 
 		System.out.println("galaxy5 ends dancehall");
+		System.out.println("world with hatsune");
 
 	}
 
